@@ -1,0 +1,437 @@
+@media(min-width:991px) and (max-width:1200px){
+    .fourth-container .section-3-fourth-container:nth-child(2) .fourth-card-img {
+        width: 305px;
+        height: 296px;
+        background-image: url(../images/asset\ 27.webp);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .menu li {
+        margin-inline:0;
+        padding: 12px 5px;
+    }
+    .menu li a{
+        font-size: 14px;
+        letter-spacing: 0px;
+        word-spacing: 0px;
+    }
+    nav {
+        height: 92px;
+        background-color: #fff;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .hero-image {
+        position: absolute;
+        height: 400px;
+        width: 450px;
+        right: 0;
+        bottom: 0px;
+    }
+    .hero-content div:nth-child(3) {
+        padding-top: 10px;
+        margin-bottom: 40px;
+        padding-right: 90px;
+    }
+    .hero-container .hero-content {
+        padding-left: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    } 
+    .hero-content>div:nth-child(2) {
+        padding-right: 90px;
+    }
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    .section-1-box-container {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+    }
+    .section-3 .section-3-container {
+        padding-inline:30px;
+    }
+    .card-left-side .heading {
+        padding-right: 20px;
+    }
+    .card-right-side {
+        height: 400px;
+        background-image: url(../images/asset\ 19.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-x: center;
+    }
+    .second-card-img {
+        margin-top: 27px;
+        height: 480px;
+        background-image: url(../images/asset\ 21.webp);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .third-card-img {
+        height: 475px;
+        background-image: url(../images/asset\ 23.webp);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position-x: right;
+    }
+    .section-3-fourth-container .fourth-card .fourth-card-img {
+        width: 373px;
+        height: 296px;
+        background-image: url(../images/asset\ 25.webp);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .fourth-container .section-3-fourth-container:nth-child(2) .fourth-card-img {
+        width: 373px;
+        height: 296px;
+        background-image: url(../images/asset\ 27.webp);
+        background-size: contain;
+        background-position-y: bottom;
+        background-repeat: no-repeat;
+    }
+    .section-4 {
+        padding-inline: 30px;
+        margin-bottom: 0px;
+    }
+    .section-5 .section-5-container .section-5-img {
+        width: 440px;
+        height: 427px;
+        background-image: url(../images/asset\ 31.webp);
+        background-size: contain;
+        background-position: center;
+        margin-top: 0;
+        background-repeat: no-repeat;
+    }
+    .section-5 {
+        background-color: #f5f7fa;
+        background-image: url(../images/asset\ 32.avif);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-inline: 20px;
+        padding-bottom: 250px;
+    }
+    .section-5-container{
+        width: 100%;
+         position: relative;
+    }
+    .section-5-container .section-5-content {
+        padding-left: 50px;
+        margin-top: 60px;  
+    }
+    .flex-s5{
+        position: absolute;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        margin-top: -100px;
+    }
+    .section-5-container .section-5-content .content-container .img-container {
+        height: 54px;
+        width: 156px;
+        position: relative;
+        margin-bottom: 20px;
+    }
+    .section-5-container .section-5-content .content-container .heading {
+        padding-right: 10px;
+    }
+    .outer-section-6 {
+        margin-top: 0px !important;
+        padding-inline: 0px;
+    }
+    .outer-section-6 {
+        margin-top: 460px;
+        padding-inline: 0px;
+    }
+    .outer-section-7 {
+        background-color: #f5f7fa;
+        padding-inline: 30px;
+    }
+    .section-8 .section-3-container {
+        padding-inline: 30px;
+    }
+    .section-8 .section-3-container .heading {
+        padding-right: 40px;
+    }
+    .section-9 {
+    padding-inline: 50px;
+        margin-bottom: 120px;
+    }
+    .section-9 .section-9-container {
+        padding-block: 25px;
+        padding-inline: 0px;
+    }
+    .section-9-container .s9-card-container {
+        padding-right: 0 !important;
+    }
+    .section-10{
+        margin-top: -70px;
+        padding-left: 50px;
+        padding-right: 0;
+    }
+    .section-10 .section-10-container .s10-first-container .s10-content{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .section-10 .section-10-container .s10-first-container .para p {
+        font-size: 20px;
+        line-height: 22px;
+        color: black;
+        font-weight: 500;
+    }
+    .section-10 .section-10-container .s10-first-container .para {
+        margin-top: 58px;
+        padding-right: 286px;
+    }
+}
+@media (min-width:770px)and (max-width:990px){
+    li ul {
+        display: none !important;
+    }
+    .card-right-side {
+        width: 70%;
+        margin-top: 30px;
+        background-image: url(../images/asset\ 19.webp);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        margin-bottom: 20px;
+    }
+    .section-4 .section-4-container .section-4-img {
+        height: 460px;
+        background-image: url(../images/asset\ 29.webp);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .section-6 .section-4-container .section-4-img {
+        height: 460px;
+        background-image: url(../images/asset\ 34.webp);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .section-8 .third-card-img {
+        height: 464px;
+        width: 100%;
+        background-image: url(../images/asset\ 37.avif);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position-x: right;
+    }
+}
+@media(min-width:581px) and (max-width:990px) {
+    li ul {
+        display: none !important;
+    }
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    nav {
+        justify-content: space-between;
+    }
+    .left-part iconify-icon {
+        display: block;
+    }
+    .menu {
+        position: absolute;
+        height: 100vh;
+        width: 100%;
+        flex-direction: column;
+        left: -16px;
+        background-color: #fff;
+        text-align: left;
+        top: 58px;
+        padding-top: 50px;
+        padding-left: 50px;
+        display: none;
+        z-index: 2000;
+    }
+    .menu li:nth-child(3),
+    .menu li:nth-child(5) {
+        margin-left: 0px;
+    }
+    .hero-image {
+        display: none;
+    }
+    .hero-container {
+        overflow-x: hidden;
+        width: 100%;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .hero-content>div:nth-child(2) {
+        padding-right: 0px;
+    }
+    .hero-content div:nth-child(3) {
+        padding-top: 10px;
+        margin-bottom: 20px;
+        padding-right: 0px;
+    }
+    .section-1-box-container {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+    }
+    /* section-3 */
+    .section-3-container {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    .section-3 .section-3-container {
+        padding-inline: 0px;
+    }
+    .section-3-container .card {
+        padding-block: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 20px;
+        border-radius: 10px;
+    }
+    .card-right-side {
+        margin-top: 30px;
+        background-image: url(../images/asset\ 19.webp);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        margin-bottom: 20px;
+    }
+    .second-card-img {
+        margin-top: 30px;
+        background-image: url(../images/asset\ 21.webp);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        margin-bottom: 20px;
+    }
+    .third-card-img {
+        height: 600px;
+        background-image: url(../images/asset\ 23.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .section-9 .section-9-container .heading {
+        width: 100%;
+        padding-bottom: 89px;
+    }
+    .fourth-container .section-3-fourth-container:nth-child(1) .fourth-card {
+        margin-right: 0;
+    }
+    .fourth-container .section-3-fourth-container:nth-child(2) .fourth-card {
+        margin-left: 0;
+        margin-top: 25px;
+    }
+    .section-4 {
+        padding-inline: 20px;
+        margin-bottom: 48px;
+    }
+    .section-5 {
+        background-color: #f5f7fa;
+        background-image: url(../images/asset\ 32.avif);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-inline: 0;
+        padding-bottom: 0px;
+        position: relative;
+    }
+    .section-5 .section-5-container .section-5-img {
+        width: 472px;
+        height: 427px;
+        background-image: url(../images/asset\ 31.webp);
+        background-size: contain;
+        background-position: center;
+        margin-top: 0;
+    }
+    .section-5-container .section-5-content {
+        padding-left: 0px;
+    }
+    .section-5-container .section-5-content .content-container {
+        width: 100%;
+        margin-top: 100px;
+    }
+    .section-5-container .section-5-content .content-container .heading {
+        padding-right: 0px;
+    }
+    .section-5 .section-5-container {
+        padding-block: 30px;
+    }
+    /* section-6 */
+    .outer-section-6 {
+        margin-top: 460px;
+        padding-inline: 0px;
+    }
+    .outer-section-7 .section-7 {
+        padding-block: 50px;
+    }
+    .outer-section-7 {
+        background-color: #f5f7fa;
+        padding-inline: 0px;
+    }
+    .section-7 .section-4-container .section-4-img {
+        height: 400px;
+        background-image: url(../images/asset\ 36.webp);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .section-7 .section-4-container .content-container {
+        padding-left: 40px;
+        margin-top: 20px;
+    }
+    .section-8 .section-3-container {
+        padding-top:50px;
+        padding-bottom: 0px;
+    }
+    .section-8 .section-3-container .card {
+        background-color: #f5f7fa;
+        padding-right: 0;
+        padding-bottom: 40px;
+    }
+    .section-8 .section-3-container {
+         padding-inline: 0;
+    }
+    /* section9 */
+    .section-9 {
+         padding-inline: 0;
+         margin-bottom: 0px;
+    }
+    .section-9 .section-9-container {
+        padding-block: 50px;
+        padding-inline: 0px;
+    }
+    .section-9-container .s9-card-container>div {
+        margin-bottom: 30px;
+        border-radius: 20px;
+        box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+        padding-left: 20px;
+        padding-bottom: 30px;
+    }
+    .section-10 {
+         padding-left: 0px;
+         padding-right: 0px;
+        margin-bottom: 120px;
+    }
+    .section-10 .section-10-container .s10-first-container .s10-content {
+         width: 100%; 
+
+    }
+    .section-10 .section-10-container .s10-first-container .s10-slider {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .section-10 .section-10-container .s10-first-container .para p {
+        font-size: 20px;
+    }
+    /* footer */
+    .footer-row {
+        padding-bottom: 16px;
+    }
+}
